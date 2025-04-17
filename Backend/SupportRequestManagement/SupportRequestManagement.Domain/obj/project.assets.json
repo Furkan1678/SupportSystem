@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\source\\repos\\c#\\proje\\SupportRequestManagement\\SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj",
       "projectName": "SupportRequestManagement.Domain",
-      "projectPath": "C:\\Users\\furka\\source\\repos\\c#\\proje\\SupportRequestManagement\\SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\source\\repos\\c#\\proje\\SupportRequestManagement\\SupportRequestManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

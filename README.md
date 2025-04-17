@@ -5,7 +5,8 @@
 ---
 
 ### **Değişiklikler ve Eklenenler**
-1. **Geliştirmeler**:
+**Geliştirmeler**:
+ ✅Sistemin temelini oluşturan Domain katmanında varlıkların, enum'ların ve arayüzlerin tanımlanmasını tamamlamak.
   
 
 
