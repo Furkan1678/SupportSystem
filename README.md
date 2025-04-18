@@ -7,7 +7,7 @@
 ### **Değişiklikler ve Eklenenler**
 **Geliştirmeler**:
  ✅Sistemin temelini oluşturan Domain katmanında varlıkların, enum'ların ve arayüzlerin tanımlanmasını tamamlamak.
-  
+ ✅Sistem için gereken veritabanının eklenmesi. 
 
 
 
