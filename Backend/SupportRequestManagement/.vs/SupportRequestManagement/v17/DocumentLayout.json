@@ -1,9 +1,241 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\c#\\proje\\SupportRequestManagement\\",
+  "WorkspaceRootPath": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\furka\\source\\repos\\c#\\proje\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\updatesupportrequeststatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\updatesupportrequeststatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\updatesupportrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\updatesupportrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\getsupportrequestsbystatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\getsupportrequestsbystatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\queries\\getsupportrequestsbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\queries\\getsupportrequestsbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\queries\\getsupportrequestsbystatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\queries\\getsupportrequestsbystatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\queries\\getsupportrequestbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\queries\\getsupportrequestbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\queries\\getallsupportrequestsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\queries\\getallsupportrequestsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\getsupportrequestsbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\getsupportrequestsbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\changesupportrequeststatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\changesupportrequeststatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\getallsupportrequestsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\getallsupportrequestsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\getsupportrequestbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\getsupportrequestbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\createsupportrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\createsupportrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\handlers\\assignsupportrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\handlers\\assignsupportrequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\dtos\\updatesupportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\dtos\\updatesupportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\dtos\\supportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\dtos\\supportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\dtos\\createsupportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\dtos\\createsupportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\commands\\updatesupportrequeststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\commands\\updatesupportrequeststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\commands\\updatesupportrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\commands\\updatesupportrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\commands\\createsupportrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\commands\\createsupportrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\commands\\changesupportrequeststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\commands\\changesupportrequeststatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequest\\commands\\assignsupportrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequest\\commands\\assignsupportrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\handlers\\getallsupportcategoriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\handlers\\getallsupportcategoriesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\handlers\\createsupportcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\handlers\\createsupportcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\handlers\\createnotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\handlers\\createnotificationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\auth\\handlers\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\auth\\handlers\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\queries\\getsupportcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\queries\\getsupportcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\queries\\getallsupportcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\queries\\getallsupportcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\handlers\\updatesupportcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\handlers\\updatesupportcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\handlers\\getsupportcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\handlers\\getsupportcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\handlers\\deletesupportcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\handlers\\deletesupportcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\handlers\\getunreadnotificationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\handlers\\getunreadnotificationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\handlers\\getnotificationsbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\handlers\\getnotificationsbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\handlers\\marknotificationasreadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\handlers\\marknotificationasreadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\dtos\\supportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\dtos\\supportcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\commands\\updatesupportcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\commands\\updatesupportcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\commands\\deletesupportcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\commands\\deletesupportcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportcategory\\commands\\createsupportcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportcategory\\commands\\createsupportcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\queries\\getnotificationsbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\queries\\getnotificationsbyuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\queries\\getunreadnotificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\queries\\getunreadnotificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\commands\\marknotificationasreadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\commands\\marknotificationasreadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\notification\\commands\\createnotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\notification\\commands\\createnotificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\auth\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\auth\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\auth\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\auth\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supporttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supporttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32089CF-DF2B-43E5-A88E-104E3EF5C7BC}|SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.domain\\entities\\supportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32089CF-DF2B-43E5-A88E-104E3EF5C7BC}|SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj|solutionrelative:supportrequestmanagement.domain\\entities\\supportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32089CF-DF2B-43E5-A88E-104E3EF5C7BC}|SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B32089CF-DF2B-43E5-A88E-104E3EF5C7BC}|SupportRequestManagement.Domain\\SupportRequestManagement.Domain.csproj|solutionrelative:supportrequestmanagement.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\auth\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\auth\\commands\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\supportrequestmanagement.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\supportrequestmanagement.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\projeler\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +246,757 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\c#\\proje\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\furka\\source\\repos\\c#\\proje\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetSupportRequestsByStatusQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByStatusQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByStatusQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByStatusQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByStatusQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:04:47.398Z",
+              "WhenOpened": "2025-04-23T23:16:08.076Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateSupportRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:16:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateSupportRequestStatusCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestStatusCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestStatusCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\UpdateSupportRequestStatusCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:17:54.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSupportRequestsByUserQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByUserQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByUserQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByUserQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:19:43.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetSupportRequestsByStatusQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByStatusQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByStatusQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByStatusQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestsByStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:19:24.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetSupportRequestByIdQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestByIdQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestByIdQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestByIdQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetSupportRequestByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:19:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllSupportRequestsQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetAllSupportRequestsQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetAllSupportRequestsQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetAllSupportRequestsQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Queries\\GetAllSupportRequestsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:18:31.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetSupportRequestsByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByUserQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByUserQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestsByUserQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:16:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetSupportRequestByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestByIdQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestByIdQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetSupportRequestByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:15:55.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllSupportRequestsQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetAllSupportRequestsQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetAllSupportRequestsQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetAllSupportRequestsQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\GetAllSupportRequestsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:15:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeSupportRequestStatusCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\ChangeSupportRequestStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\ChangeSupportRequestStatusCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\ChangeSupportRequestStatusCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\ChangeSupportRequestStatusCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:13:24.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateSupportRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\CreateSupportRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\CreateSupportRequestCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\CreateSupportRequestCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\CreateSupportRequestCommandHandler.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:14:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssignSupportRequestCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\AssignSupportRequestCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\AssignSupportRequestCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\AssignSupportRequestCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Handlers\\AssignSupportRequestCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:12:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateSupportRequestDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\UpdateSupportRequestDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\UpdateSupportRequestDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\UpdateSupportRequestDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\UpdateSupportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:12:44.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupportRequestDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\SupportRequestDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\SupportRequestDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\SupportRequestDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\SupportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:12:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateSupportRequestDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\CreateSupportRequestDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\CreateSupportRequestDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\CreateSupportRequestDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Dtos\\CreateSupportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:12:16.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateSupportRequestStatusCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestStatusCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestStatusCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestStatusCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:12:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateSupportRequestCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\UpdateSupportRequestCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:11:38.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateSupportRequestCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\CreateSupportRequestCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\CreateSupportRequestCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\CreateSupportRequestCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\CreateSupportRequestCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:11:28.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChangeSupportRequestStatusCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\ChangeSupportRequestStatusCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\ChangeSupportRequestStatusCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\ChangeSupportRequestStatusCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\ChangeSupportRequestStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:11:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignSupportRequestCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\AssignSupportRequestCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\AssignSupportRequestCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\AssignSupportRequestCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequest\\Commands\\AssignSupportRequestCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:10:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateNotificationCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\CreateNotificationCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\CreateNotificationCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\CreateNotificationCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\CreateNotificationCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:59:38.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateSupportCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\CreateSupportCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\CreateSupportCategoryCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\CreateSupportCategoryCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\CreateSupportCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:04:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllSupportCategoriesQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetAllSupportCategoriesQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetAllSupportCategoriesQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetAllSupportCategoriesQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetAllSupportCategoriesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:05:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Handlers\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Auth\\Handlers\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Handlers\\LoginCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Auth\\Handlers\\LoginCommandHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:22:46.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetSupportCategoryByIdQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetSupportCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetSupportCategoryByIdQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetSupportCategoryByIdQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetSupportCategoryByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:10:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAllSupportCategoriesQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetAllSupportCategoriesQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetAllSupportCategoriesQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetAllSupportCategoriesQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Queries\\GetAllSupportCategoriesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:10:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateSupportCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\UpdateSupportCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\UpdateSupportCategoryCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\UpdateSupportCategoryCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\UpdateSupportCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:09:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetSupportCategoryByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetSupportCategoryByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetSupportCategoryByIdQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetSupportCategoryByIdQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\GetSupportCategoryByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:09:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteSupportCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\DeleteSupportCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\DeleteSupportCategoryCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\DeleteSupportCategoryCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Handlers\\DeleteSupportCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:05:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetUnreadNotificationsQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetUnreadNotificationsQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetUnreadNotificationsQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetUnreadNotificationsQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetUnreadNotificationsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:00:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetNotificationsByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetNotificationsByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetNotificationsByUserQueryHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetNotificationsByUserQueryHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\GetNotificationsByUserQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:00:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MarkNotificationAsReadCommandHandler.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\MarkNotificationAsReadCommandHandler.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\MarkNotificationAsReadCommandHandler.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Handlers\\MarkNotificationAsReadCommandHandler.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Handlers\\MarkNotificationAsReadCommandHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:00:31.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SupportCategoryDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Dtos\\SupportCategoryDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Dtos\\SupportCategoryDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Dtos\\SupportCategoryDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Dtos\\SupportCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:04:23.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateSupportCategoryCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\UpdateSupportCategoryCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\UpdateSupportCategoryCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\UpdateSupportCategoryCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\UpdateSupportCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:03:59.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteSupportCategoryCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\DeleteSupportCategoryCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\DeleteSupportCategoryCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\DeleteSupportCategoryCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\DeleteSupportCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:03:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateSupportCategoryCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\CreateSupportCategoryCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\CreateSupportCategoryCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\CreateSupportCategoryCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportCategory\\Commands\\CreateSupportCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:03:11.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetUnreadNotificationsQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetUnreadNotificationsQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetUnreadNotificationsQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetUnreadNotificationsQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetUnreadNotificationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:20:00.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetNotificationsByUserQuery.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetNotificationsByUserQuery.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetNotificationsByUserQuery.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetNotificationsByUserQuery.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Queries\\GetNotificationsByUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:19:59.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Dtos\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Dtos\\NotificationDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Dtos\\NotificationDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Dtos\\NotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:59:07.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MarkNotificationAsReadCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Commands\\MarkNotificationAsReadCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Commands\\MarkNotificationAsReadCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Commands\\MarkNotificationAsReadCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Commands\\MarkNotificationAsReadCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:58:27.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateNotificationCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Commands\\CreateNotificationCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Notification\\Commands\\CreateNotificationCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Notification\\Commands\\CreateNotificationCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Notification\\Commands\\CreateNotificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:57:03.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginResponseDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:03:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Auth\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:03:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\appsettings.json",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\appsettings.json",
+              "RelativeToolTip": "SupportRequestManagement.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:53:06.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SupportRequestManagement.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T08:53:00.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SupportRequest.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\Entities\\SupportRequest.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Domain\\Entities\\SupportRequest.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\Entities\\SupportRequest.cs",
+              "RelativeToolTip": "SupportRequestManagement.Domain\\Entities\\SupportRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "SupportRequestManagement.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SupportTypeRepository.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SupportRequestRepository.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:38.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SupportCategoryRepository.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:38.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:37.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:26.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Commands\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\Auth\\Commands\\LoginCommand.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\Auth\\Commands\\LoginCommand.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\Auth\\Commands\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:28:56.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:04:38.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "SupportRequestManagement.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:04:28.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SupportRequestManagement.Presentation",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
+              "RelativeToolTip": "SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T21:04:16.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:04:47.398Z"
             }
           ]
         }

@@ -8,5 +8,6 @@ namespace SupportRequestManagement.Application.Features.SupportCategory.Queries
 {
     internal class GetSupportCategoryByIdQuery
     {
+        public int Id { get; set; }
     }
 }

@@ -8,5 +8,6 @@ namespace SupportRequestManagement.Application.Features.SupportCategory.Queries
 {
     internal class GetAllSupportCategoriesQuery
     {
+        public bool OnlyActive { get; set; } = true;
     }
 }
