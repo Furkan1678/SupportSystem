@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Queries
 {
-    internal class GetSupportRequestsByUserQuery : IRequest<List<SupportRequestDto>>
+    public class GetSupportRequestsByUserQuery : IRequest<List<SupportRequestDto>>
     {
         public int UserId { get; set; }
         public int PageNumber { get; set; } = 1;

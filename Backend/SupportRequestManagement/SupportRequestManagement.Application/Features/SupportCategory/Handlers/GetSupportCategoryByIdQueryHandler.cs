@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportCategory.Handlers
 {
-    internal class GetSupportCategoryByIdQueryHandler : IRequestHandler<GetSupportCategoryByIdQuery, SupportCategoryDto>
+    public class GetSupportCategoryByIdQueryHandler : IRequestHandler<GetSupportCategoryByIdQuery, SupportCategoryDto>
     {
-    {
+    
         private readonly ISupportCategoryRepository _supportCategoryRepository;
         private readonly IMapper _mapper;
 

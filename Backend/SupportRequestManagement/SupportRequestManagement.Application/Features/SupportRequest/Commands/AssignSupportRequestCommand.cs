@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Commands
 {
-    internal class AssignSupportRequestCommand : IRequest<SupportRequestDto>
+    public class AssignSupportRequestCommand : IRequest<SupportRequestDto>
     {
         public int SupportRequestId { get; set; }
         public int AdminId { get; set; }

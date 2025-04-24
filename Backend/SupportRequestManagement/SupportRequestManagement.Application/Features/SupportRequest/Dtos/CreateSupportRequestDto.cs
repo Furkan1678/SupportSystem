@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Dtos
 {
-    internal class CreateSupportRequestDto
+    public class CreateSupportRequestDto
     {
         public int UserId { get; set; }
         public int SupportTypeId { get; set; }

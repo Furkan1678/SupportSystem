@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Commands
 {
-    internal class CreateNotificationCommand : IRequest<NotificationDto>
+    public class CreateNotificationCommand : IRequest<NotificationDto>
     {
         public int UserId { get; set; }
         public string Message { get; set; }

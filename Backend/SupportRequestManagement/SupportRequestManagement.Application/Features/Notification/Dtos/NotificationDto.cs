@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Dtos
 {
-    internal class NotificationDto
+    public class NotificationDto
     {
         public int Id { get; set; }
         public int UserId { get; set; }

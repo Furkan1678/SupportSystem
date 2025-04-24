@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Queries
 {
-    internal class GetSupportRequestsByStatusQuery : IRequest<List<SupportRequestDto>>
+    public class GetSupportRequestsByStatusQuery : IRequest<List<SupportRequestDto>>
     {
         public SupportRequestStatus Status { get; set; }
         public int PageNumber { get; set; } = 1;

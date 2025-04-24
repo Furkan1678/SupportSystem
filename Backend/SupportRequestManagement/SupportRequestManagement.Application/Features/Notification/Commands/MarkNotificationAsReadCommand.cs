@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Commands
 {
-    internal class MarkNotificationAsReadCommand : IRequest<NotificationDto>
+    public class MarkNotificationAsReadCommand : IRequest<NotificationDto>
     {
         public int Id { get; set; }
     }

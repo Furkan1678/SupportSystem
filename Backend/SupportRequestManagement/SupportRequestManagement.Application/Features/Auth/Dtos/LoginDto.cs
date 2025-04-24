@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Auth.Dtos
 {
-    internal class LoginDto
+    public class LoginDto
     {
         public string Username { get; set; }
         public string Password { get; set; }

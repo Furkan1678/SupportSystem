@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Dtos
 {
-    internal class UpdateSupportRequestDto
+   public class UpdateSupportRequestDto
     {
         public int Id { get; set; }
         public string Subject { get; set; }

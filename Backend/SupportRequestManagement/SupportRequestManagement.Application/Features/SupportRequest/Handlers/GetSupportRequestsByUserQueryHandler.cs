@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
 {
-    internal class GetSupportRequestsByUserQueryHandler : IRequestHandler<GetSupportRequestsByUserQuery, List<SupportRequestDto>>
+    public class GetSupportRequestsByUserQueryHandler : IRequestHandler<GetSupportRequestsByUserQuery, List<SupportRequestDto>>
     {
         private readonly ISupportRequestRepository _supportRequestRepository;
         private readonly IMapper _mapper;

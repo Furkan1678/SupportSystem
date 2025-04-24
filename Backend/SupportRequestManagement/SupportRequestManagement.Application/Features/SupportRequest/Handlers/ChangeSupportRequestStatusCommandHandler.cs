@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
 {
-    internal class ChangeSupportRequestStatusCommandHandler : IRequestHandler<ChangeSupportRequestStatusCommand, SupportRequestDto>
+    public class ChangeSupportRequestStatusCommandHandler : IRequestHandler<ChangeSupportRequestStatusCommand, SupportRequestDto>
     {
         private readonly ISupportRequestRepository _supportRequestRepository;
         private readonly INotificationRepository _notificationRepository;
@@ -39,7 +39,7 @@ namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
             supportRequest.UpdatedAt = DateTime.UtcNow;
             await _supportRequestRepository.UpdateAsync(supportRequest);
 
-            var notification = new SupportRequestManagement.Core.Domain.Entities.Notification
+            var notification = new SupportRequestManagement.Domain.Entities.Notification
             {
                 UserId = supportRequest.UserId,
                 Message = $"Destek talebinizin durumu değişti: {request.Status}",

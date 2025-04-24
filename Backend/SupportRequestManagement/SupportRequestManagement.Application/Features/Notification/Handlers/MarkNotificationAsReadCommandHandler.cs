@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Handlers
 {
-    internal class MarkNotificationAsReadCommandHandler : IRequestHandler<MarkNotificationAsReadCommand, NotificationDto>
+    public class MarkNotificationAsReadCommandHandler : IRequestHandler<MarkNotificationAsReadCommand, NotificationDto>
     {
         private readonly INotificationRepository _notificationRepository;
         private readonly IMapper _mapper;

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Commands
 {
-    internal class ChangeSupportRequestStatusCommand : IRequest<SupportRequestDto>
+    public class ChangeSupportRequestStatusCommand : IRequest<SupportRequestDto>
     {
         public int Id { get; set; }
         public SupportRequestStatus Status { get; set; }

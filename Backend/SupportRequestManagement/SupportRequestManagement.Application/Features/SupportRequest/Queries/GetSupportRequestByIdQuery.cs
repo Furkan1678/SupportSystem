@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Queries
 {
-    internal class GetSupportRequestByIdQuery : IRequest<SupportRequestDto>
+    public class GetSupportRequestByIdQuery : IRequest<SupportRequestDto>
     {
         public int Id { get; set; }
     }

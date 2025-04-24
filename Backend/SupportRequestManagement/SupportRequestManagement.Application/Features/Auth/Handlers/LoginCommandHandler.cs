@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using BCrypt.Net;
+using MediatR;
 using SupportRequestManagement.Application.Features.Auth.Commands;
 using SupportRequestManagement.Application.Features.Auth.Dtos;
 using SupportRequestManagement.Domain.Interfaces;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Auth.Handlers
 {
-    internal class LoginCommandHandler : IRequestHandler<LoginCommand, LoginResponseDto>
+    public class LoginCommandHandler : IRequestHandler<LoginCommand, LoginResponseDto>
 
     {
         private readonly IUserRepository _userRepository;

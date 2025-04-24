@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Queries
 {
-    internal class GetUnreadNotificationsQuery : IRequest<List<NotificationDto>>
+   public class GetUnreadNotificationsQuery : IRequest<List<NotificationDto>>
     {
         public int UserId { get; set; }
         public int PageNumber { get; set; } = 1;

@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Handlers
 {
-    internal class CreateNotificationCommandHandler : IRequestHandler<CreateNotificationCommand, NotificationDto>
+    public class CreateNotificationCommandHandler : IRequestHandler<CreateNotificationCommand, NotificationDto>
     {
         private readonly INotificationRepository _notificationRepository;
         private readonly IMapper _mapper;
@@ -24,7 +24,7 @@ namespace SupportRequestManagement.Application.Features.Notification.Handlers
 
         public async Task<NotificationDto> Handle(CreateNotificationCommand request, CancellationToken cancellationToken)
         {
-            var notification = _mapper.Map<SupportRequestManagement.Core.Domain.Entities.Notification>(request);
+            var notification = _mapper.Map<SupportRequestManagement.Domain.Entities.Notification>(request);
             notification.IsRead = false;
             notification.CreatedAt = DateTime.UtcNow;
             await _notificationRepository.AddAsync(notification);

@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportCategory.Handlers
 {
-    internal class CreateSupportCategoryCommandHandler : IRequestHandler<CreateSupportCategoryCommand, SupportCategoryDto>
+   public class CreateSupportCategoryCommandHandler : IRequestHandler<CreateSupportCategoryCommand, SupportCategoryDto>
     {
         private readonly ISupportCategoryRepository _supportCategoryRepository;
         private readonly IMapper _mapper;
@@ -24,7 +24,7 @@ namespace SupportRequestManagement.Application.Features.SupportCategory.Handlers
 
         public async Task<SupportCategoryDto> Handle(CreateSupportCategoryCommand request, CancellationToken cancellationToken)
         {
-            var category = _mapper.Map<SupportRequestManagement.Core.Domain.Entities.SupportCategory>(request);
+            var category = _mapper.Map<SupportRequestManagement.Domain.Entities.SupportCategory>(request);
             category.CreatedAt = DateTime.UtcNow;
             category.IsActive = true;
             await _supportCategoryRepository.AddAsync(category);

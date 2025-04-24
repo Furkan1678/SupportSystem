@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Notification.Handlers
 {
-    internal class GetNotificationsByUserQueryHandler : IRequestHandler<GetNotificationsByUserQuery, List<NotificationDto>>
+   public class GetNotificationsByUserQueryHandler : IRequestHandler<GetNotificationsByUserQuery, List<NotificationDto>>
     {
         private readonly INotificationRepository _notificationRepository;
         private readonly IMapper _mapper;

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.Auth.Commands
 {
-    internal class LoginCommand : IRequest<LoginResponseDto>
+    public class LoginCommand : IRequest<LoginResponseDto>
     {
         public string Username { get; set; }
         public string Password { get; set; }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportCategory.Commands
 {
-    internal class UpdateSupportCategoryCommand : IRequest<SupportCategoryDto>
+    public class UpdateSupportCategoryCommand : IRequest<SupportCategoryDto>
     {
         public int Id { get; set; }
         public string Name { get; set; }

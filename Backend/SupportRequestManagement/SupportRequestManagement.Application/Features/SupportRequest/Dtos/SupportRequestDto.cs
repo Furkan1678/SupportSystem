@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Dtos
 {
-    internal class SupportRequestDto
+    public class SupportRequestDto
     {
         public int Id { get; set; }
         public int UserId { get; set; }

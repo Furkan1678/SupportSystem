@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
 {
-    internal class CreateSupportRequestCommandHandler : IRequestHandler<CreateSupportRequestCommand, SupportRequestDto>
+    public class CreateSupportRequestCommandHandler : IRequestHandler<CreateSupportRequestCommand, SupportRequestDto>
     { 
         private readonly ISupportRequestRepository _supportRequestRepository;
         private readonly IUserRepository _userRepository;
@@ -39,12 +39,12 @@ namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
                 throw new Exception("Kullanıcı bulunamadı");
             }
 
-            var supportRequest = _mapper.Map<SupportRequestManagement.Core.Domain.Entities.SupportRequest>(request);
-            supportRequest.Status = SupportRequestStatus.Pending;
+            var supportRequest = _mapper.Map<SupportRequestManagement.Domain.Entities.SupportRequest>(request);
+            supportRequest.Status = SupportRequestStatus.Beklemede;
             supportRequest.CreatedAt = DateTime.UtcNow;
             await _supportRequestRepository.AddAsync(supportRequest);
 
-            var notification = new SupportRequestManagement.Core.Domain.Entities.Notification
+            var notification = new SupportRequestManagement.Domain.Entities.Notification
             {
                 UserId = request.UserId,
                 Message = $"Yeni destek talebiniz oluşturuldu: {request.Subject}",

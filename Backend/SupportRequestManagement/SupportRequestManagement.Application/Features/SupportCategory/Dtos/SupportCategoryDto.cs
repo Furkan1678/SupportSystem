@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportCategory.Dtos
 {
-    internal class SupportCategoryDto
+   public class SupportCategoryDto
     {
         public int Id { get; set; }
         public string Name { get; set; }

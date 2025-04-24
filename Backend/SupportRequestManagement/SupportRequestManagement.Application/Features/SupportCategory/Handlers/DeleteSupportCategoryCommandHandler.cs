@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportCategory.Handlers
 {
-    internal class DeleteSupportCategoryCommandHandler : IRequestHandler<DeleteSupportCategoryCommand>
+    public class DeleteSupportCategoryCommandHandler : IRequestHandler<DeleteSupportCategoryCommand>
     {
         private readonly ISupportCategoryRepository _supportCategoryRepository;
 

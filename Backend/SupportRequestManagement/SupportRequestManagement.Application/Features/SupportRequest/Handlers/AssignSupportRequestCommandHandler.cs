@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
 {
-    internal class AssignSupportRequestCommandHandler : IRequestHandler<AssignSupportRequestCommand, SupportRequestDto>
+    public class AssignSupportRequestCommandHandler : IRequestHandler<AssignSupportRequestCommand, SupportRequestDto>
     {
         private readonly ISupportRequestRepository _supportRequestRepository;
         private readonly IUserRepository _userRepository;

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportCategory.Commands
 {
-    internal class DeleteSupportCategoryCommand :IRequest
+    public class DeleteSupportCategoryCommand :IRequest
     {
         public int Id { get; set; }
     }
