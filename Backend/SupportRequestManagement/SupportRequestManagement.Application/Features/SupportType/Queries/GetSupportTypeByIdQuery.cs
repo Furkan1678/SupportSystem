@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using SupportRequestManagement.Application.Features.SupportType.Dtos;
 
 namespace SupportRequestManagement.Application.Features.SupportType.Queries
 {
-    internal class GetSupportTypeByIdQuery
+    public class GetSupportTypeByIdQuery : IRequest<SupportTypeDto>
     {
+        public int Id { get; set; }
     }
 }

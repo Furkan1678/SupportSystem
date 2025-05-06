@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using SupportRequestManagement.Application.Features.SupportType.Dtos;
 
 namespace SupportRequestManagement.Application.Features.SupportType.Queries
 {
-    internal class GetAllSupportTypesQuery
+    public class GetAllSupportTypesQuery : IRequest<List<SupportTypeDto>>
     {
+        public bool OnlyActive { get; set; } = true;
     }
 }

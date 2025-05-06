@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using SupportRequestManagement.Application.Features.User.Dtos;
+using SupportRequestManagement.Domain.Enums;
 
 namespace SupportRequestManagement.Application.Features.User.Queries
 {
-    internal class GetUsersByRoleQuery
+    public class GetUsersByRoleQuery : IRequest<List<UserDto>>
     {
+        public UserRole Role { get; set; }
+        public int PageNumber { get; set; } = 1;
+        public int PageSize { get; set; } = 10;
     }
 }

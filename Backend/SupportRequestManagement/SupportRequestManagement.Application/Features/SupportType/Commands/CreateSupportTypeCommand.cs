@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using MediatR;
+using SupportRequestManagement.Application.Features.SupportType.Dtos;
 namespace SupportRequestManagement.Application.Features.SupportType.Commands
 {
-    internal class CreateSupportTypeCommand
+    public class CreateSupportTypeCommand : IRequest<SupportTypeDto>
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }

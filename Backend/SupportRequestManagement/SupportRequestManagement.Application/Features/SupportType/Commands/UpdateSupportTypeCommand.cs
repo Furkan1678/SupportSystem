@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using SupportRequestManagement.Application.Features.SupportType.Dtos;
 
 namespace SupportRequestManagement.Application.Features.SupportType.Commands
 {
-    internal class UpdateSupportTypeCommand
+    public class UpdateSupportTypeCommand : IRequest<SupportTypeDto>
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public bool IsActive { get; set; }
     }
 }

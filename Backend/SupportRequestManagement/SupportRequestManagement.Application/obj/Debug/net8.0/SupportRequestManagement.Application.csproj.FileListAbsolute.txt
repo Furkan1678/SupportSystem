@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.sourcelink.json
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\bin\Debug\net8.0\SupportRequestManagement.Application.deps.json
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\bin\Debug\net8.0\SupportRequestManagement.Application.dll
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\bin\Debug\net8.0\SupportRequestManagement.Application.pdb
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\bin\Debug\net8.0\SupportRequestManagement.Domain.dll
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\bin\Debug\net8.0\SupportRequestManagement.Domain.pdb
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportR.890B0675.Up2Date
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.dll
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\refint\SupportRequestManagement.Application.dll
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\SupportRequestManagement.Application.pdb
+C:\Users\User\Desktop\proje\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Application\obj\Debug\net8.0\ref\SupportRequestManagement.Application.dll
