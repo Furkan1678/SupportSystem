@@ -6,6 +6,10 @@
 
 ### **Değişiklikler ve Eklenenler**
 **Geliştirmeler**:
+
+
+
+
 ✅ Sistemin temelini oluşturan Domain katmanında varlıkların, enum'ların ve arayüzlerin tanımlanması tamamlandı.
 
 
@@ -20,19 +24,48 @@
 
 
 
-•Kimlik Doğrulama (Auth): Kullanıcı girişi, kaydı ve çıkış işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+- **Kimlik Doğrulama (Auth)**: Kullanıcı girişi, kaydı ve çıkış işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
 
 
 
-•Bildirim (Notification): Bildirim gönderme ve alma işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+- **Bildirim (Notification)**: Bildirim gönderme ve alma işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
 
 
 
-•Destek Kategorisi (SupportCategory): Kategori oluşturma, güncelleme ve silme işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+- **Destek Kategorisi (SupportCategory)**: Kategori oluşturma, güncelleme ve silme işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
 
 
 
-•Destek Talebi (SupportRequest): Destek talebi oluşturma, güncelleme ve kapatma işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+- **Destek Talebi (SupportRequest)**: Destek talebi oluşturma, güncelleme ve kapatma işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+
+
+
+- **Destek Türü (SupportType)**: Tür oluşturma, güncelleme ve silme işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+
+
+
+- **Destek Talebi Yorumları (SupportRequestComment)**: Yorum ekleme ve listeleme işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+
+
+
+✅ Infrastructure katmanında aşağıdaki geliştirmeler yapıldı:
+
+
+
+
+
+- **BackgroundService** eklendi: Dosya yükleme ve diğer arka plan işlemlerini yönetmek için **FileUploadService** implementasyonu tamamlandı.
+
+
+
+- **LoggingService** eklendi: Hata mesajlarını kaydetmek ve sistem izlenebilirliğini artırmak için loglama servisi geliştirildi.
+
 
 
 
@@ -42,11 +75,25 @@
 
 
 
-•AuthController: Kimlik doğrulama işlemleri için API uç noktaları (login, register, logout, user, token).
+- **AuthController**: Kimlik doğrulama işlemleri için API uç noktaları (login, register, logout, user, token).
 
 
 
-•NotificationController: Bildirim işlemleri için API uç noktaları (send, list, detail).
+- **NotificationController**: Bildirim işlemleri için API uç noktaları (send, list, detail).
+
+
+
+- **SupportTypeController**: Destek türlerini oluşturma, güncelleme, silme ve listeleme işlemleri için **/api/SupportType** uç noktaları.
+
+
+
+- **SupportCategoryController**: Destek kategorilerini oluşturma, güncelleme, silme ve listeleme işlemleri için **/api/SupportCategory** uç noktaları.
+
+
+
+- **SupportRequestController**: Destek talebi oluşturma, güncelleme, listeleme ve durum değiştirme işlemleri için **/api/SupportRequest** uç noktaları.
+
+
 
 
 
