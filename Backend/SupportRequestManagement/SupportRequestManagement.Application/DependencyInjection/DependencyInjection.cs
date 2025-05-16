@@ -3,7 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using SupportRequestManagement.Domain.Interfaces;
 
 
-namespace SupportRequestManagement.Core.Application.DependencyInjection
+namespace SupportRequestManagement.Application.DependencyInjection
 {
     public static class DependencyInjection
     {

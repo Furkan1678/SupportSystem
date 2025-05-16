@@ -54,15 +54,20 @@
 
 
 
+- **Kullanıcı Yönetimi (User)**: Kullanıcı oluşturma, güncelleme, silme ve role göre sorgulama işlemleri için komutlar, sorgular, DTO'lar ve işleyiciler tamamlandı.
+
+
+
+
 ✅ Infrastructure katmanında aşağıdaki geliştirmeler yapıldı:
 
 
 
-
+- **FileUploadService** eklendi: Dosya yükleme işlemlerini asenkron bir şekilde işlemek ve depolamak için servis geliştirildi.
 
 - **BackgroundService** eklendi: Dosya yükleme ve diğer arka plan işlemlerini yönetmek için **FileUploadService** implementasyonu tamamlandı.
 
-
+- **JwtTokenService** eklendi: Kimlik doğrulama için JWT token üretimi ve yönetimi sağlayan servis implemente edildi.
 
 - **LoggingService** eklendi: Hata mesajlarını kaydetmek ve sistem izlenebilirliğini artırmak için loglama servisi geliştirildi.
 
@@ -94,6 +99,16 @@
 - **SupportRequestController**: Destek talebi oluşturma, güncelleme, listeleme ve durum değiştirme işlemleri için **/api/SupportRequest** uç noktaları.
 
 
+
+- **FileController**: Dosya yükleme işlemleri için **/api/File** uç noktası implemente edildi.
+
+
+
+- **UserController**: Kullanıcı oluşturma ve yönetimi için **/api/User** uç noktaları geliştirildi.
+
+
+
+- **SupportRequestCommentController**: Destek taleplerine yorum ekleme ve listeleme işlemleri için **/api/SupportRequestComment** uç noktaları tamamlandı.
 
 
 

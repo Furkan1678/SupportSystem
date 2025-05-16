@@ -13,7 +13,7 @@ using SupportRequestManagement.Application.Features.User.Commands;
 using SupportRequestManagement.Application.Features.User.Dtos;
 using SupportRequestManagement.Domain.Entities;
 
-namespace SupportRequestManagement.Core.Application.Mapping
+namespace SupportRequestManagement.Application.Mapping
 {
     public class MappingProfile : Profile
     {

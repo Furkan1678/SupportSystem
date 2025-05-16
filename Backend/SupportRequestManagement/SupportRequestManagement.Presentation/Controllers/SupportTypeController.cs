@@ -9,7 +9,7 @@ namespace SupportRequestManagement.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Admin,SuperAdmin")]
+    [Authorize]
     public class SupportTypeController : ControllerBase
     {
         private readonly IMediator _mediator;

@@ -4,17 +4,16 @@ using SupportRequestManagement.Application.DependencyInjection;
 using SupportRequestManagement.Application.Mapping;
 using SupportRequestManagement.Infrastructure.DependencyInjection;
 using SupportRequestManagement.Infrastructure.Services;
+using SupportRequestManagement.Presentation.Middleware;
 using System.Text;
 using Microsoft.OpenApi.Models;
-using SupportRequestManagement.Domain.Interfaces;
-using SupportRequestManagement.Presentation.Middleware; // Swagger için ekledik
+using SupportRequestManagement.Domain.Interfaces; 
 
 namespace SupportRequestManagement.Presentation.WebApi.Startup
 {
     public class Startup
     {
         public IConfiguration Configuration { get; }
-
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -27,9 +26,9 @@ namespace SupportRequestManagement.Presentation.WebApi.Startup
             // CORS
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowAll", builder =>
+                options.AddPolicy("AllowFrontend", builder =>
                 {
-                    builder.AllowAnyOrigin()
+                    builder.WithOrigins("http://localhost:5173")
                            .AllowAnyMethod()
                            .AllowAnyHeader();
                 });
@@ -114,7 +113,7 @@ namespace SupportRequestManagement.Presentation.WebApi.Startup
 
             }
 
-            app.UseCors("AllowAll");
+            app.UseCors("AllowFrontend");
             app.UseMiddleware<ExceptionMiddleware>();
             app.UseRouting();
             app.UseAuthentication();
