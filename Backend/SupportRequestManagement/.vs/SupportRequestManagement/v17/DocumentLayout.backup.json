@@ -1,54 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\services\\backgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\services\\backgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supporttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supporttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportrequestcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportrequestcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\supporttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\supporttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\supportrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\supportrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\controllers\\supportcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\controllers\\supportcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\filters\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\filters\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|c:\\users\\ozcan\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.application\\features\\supportrequestcomment\\dtos\\supportrequestcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF0160B-95E7-425D-B72B-B37015FAE8CD}|SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj|solutionrelative:supportrequestmanagement.application\\features\\supportrequestcomment\\dtos\\supportrequestcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SupportRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\SupportRequestController.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\SupportRequestController.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\SupportRequestController.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\SupportRequestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:46:21.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SupportTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\SupportTypeController.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\SupportTypeController.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\SupportTypeController.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\SupportTypeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:45:20.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SupportCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\SupportCategoryController.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\SupportCategoryController.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\SupportCategoryController.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\SupportCategoryController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:44:54.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:42:59.087Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Services\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\JwtTokenService.cs",
-              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\JwtTokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:41:35.355Z",
+              "WhenOpened": "2025-05-16T21:12:55.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoggingService.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\LoggingService.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Services\\LoggingService.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\LoggingService.cs",
-              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\LoggingService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBgAAAAyAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:40:43.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileUploadService.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:40:05.925Z",
+              "WhenOpened": "2025-05-16T21:07:34.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\BackgroundService.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Services\\BackgroundService.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\BackgroundService.cs",
-              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\BackgroundService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Title": "SupportTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:39:41.201Z",
+              "WhenOpened": "2025-05-16T21:06:48.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA8AAAA7AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SupportRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:38:30.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthorizationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Filters\\AuthorizationFilter.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Filters\\AuthorizationFilter.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Filters\\AuthorizationFilter.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Filters\\AuthorizationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:38:02.685Z"
+              "WhenOpened": "2025-05-16T21:06:11.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Controllers\\FileController.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Controllers\\FileController.cs",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\Controllers\\FileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Title": "SupportRequestCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:36:12.3Z",
+              "WhenOpened": "2025-05-16T21:04:39.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SupportRequestCommentDto.cs",
-              "DocumentMoniker": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequestComment\\Dtos\\SupportRequestCommentDto.cs",
-              "RelativeDocumentMoniker": "SupportRequestManagement.Application\\Features\\SupportRequestComment\\Dtos\\SupportRequestCommentDto.cs",
-              "ToolTip": "C:\\Users\\ozcan\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\Features\\SupportRequestComment\\Dtos\\SupportRequestCommentDto.cs",
-              "RelativeToolTip": "SupportRequestManagement.Application\\Features\\SupportRequestComment\\Dtos\\SupportRequestCommentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SupportCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T10:26:05.916Z"
+              "WhenOpened": "2025-05-16T21:03:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:02:59.208Z",
+              "EditorCaption": ""
             }
           ]
         }

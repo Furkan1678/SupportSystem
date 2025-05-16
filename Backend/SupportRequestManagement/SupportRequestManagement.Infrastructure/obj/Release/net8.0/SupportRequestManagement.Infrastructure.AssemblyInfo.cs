@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SupportRequestManagement.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9afc02686b81e34a65ab65d9b4823fd648d654c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3a946965f26d5f8e253b9e321e9936948c03c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SupportRequestManagement.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SupportRequestManagement.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,3 +22,15 @@ C:\Users\ozcan\SupportSystem\Backend\SupportRequestManagement\SupportRequestMana
 C:\Users\ozcan\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\refint\SupportRequestManagement.Domain.dll
 C:\Users\ozcan\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.pdb
 C:\Users\ozcan\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\ref\SupportRequestManagement.Domain.dll
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\bin\Debug\net8.0\SupportRequestManagement.Domain.deps.json
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\bin\Debug\net8.0\SupportRequestManagement.Domain.dll
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\bin\Debug\net8.0\SupportRequestManagement.Domain.pdb
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.AssemblyInfo.cs
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.sourcelink.json
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.dll
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\refint\SupportRequestManagement.Domain.dll
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\SupportRequestManagement.Domain.pdb
+C:\Users\hp\SupportSystem\Backend\SupportRequestManagement\SupportRequestManagement.Domain\obj\Debug\net8.0\ref\SupportRequestManagement.Domain.dll

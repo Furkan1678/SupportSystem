@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supporttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supporttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportrequestcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportrequestcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\supportcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\supportcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\hp\\supportsystem\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\data\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\data\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupportRequestCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestCommentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:04:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupportRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportRequestRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:06:11.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupportTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportTypeRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:06:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:07:34.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:12:55.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupportCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\SupportCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:03:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Data\\NotificationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:02:59.208Z",
+              "EditorCaption": ""
             }
           ]
         }

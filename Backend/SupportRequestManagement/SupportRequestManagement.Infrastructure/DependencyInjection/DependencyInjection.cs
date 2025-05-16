@@ -15,11 +15,18 @@ namespace SupportRequestManagement.Infrastructure.DependencyInjection
             // PostgreSQL bağlantısı
             services.AddScoped<IDbConnection>(sp => new NpgsqlConnection(configuration.GetConnectionString("DefaultConnection")));
 
-            // Repository'ler gelecek
-         
+            // Repository'ler Geldi!!!
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ISupportRequestRepository, SupportRequestRepository>();
+            services.AddScoped<ISupportCategoryRepository, SupportCategoryRepository>();
+            services.AddScoped<ISupportTypeRepository, SupportTypeRepository>();
+            services.AddScoped<INotificationRepository, NotificationRepository>();
+            services.AddScoped<ISupportRequestCommentRepository, SupportRequestCommentRepository>();
 
-            // Servisler gelecek 
-        
+            // Servisler Geeeldiiii
+            services.AddScoped<IJwtTokenService, JwtTokenService>();
+            services.AddScoped<IFileUploadService, FileUploadService>();
+            services.AddScoped<ILoggingService, LoggingService>(); // Bu satırı ekledik
 
             return services;
         }
