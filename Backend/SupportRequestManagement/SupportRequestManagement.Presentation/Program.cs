@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Hosting;
 using SupportRequestManagement.Presentation;
-using SupportRequestManagement.Presentation.WebApi.Startup;
+using SupportRequestManagement.Presentation.Startup;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddApplicationServices(builder.Configuration);

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SupportRequestManagement.Presentation.props" />
+</Project>

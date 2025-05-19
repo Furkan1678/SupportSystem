@@ -28,7 +28,7 @@ namespace SupportRequestManagement.Infrastructure.Data
 
         public async Task<List<SupportCategory>> GetActiveAsync()
         {
-            var sql = "SELECT * FROM SupportCategories WHERE IsActive = 1";
+            var sql = "SELECT * FROM SupportCategories WHERE IsActive = true";
             return (await _dbConnection.QueryAsync<SupportCategory>(sql)).ToList();
         }
 

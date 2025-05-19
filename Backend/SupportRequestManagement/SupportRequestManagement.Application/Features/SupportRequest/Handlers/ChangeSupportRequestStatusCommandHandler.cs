@@ -3,11 +3,6 @@ using MediatR;
 using SupportRequestManagement.Application.Features.SupportRequest.Commands;
 using SupportRequestManagement.Application.Features.SupportRequest.Dtos;
 using SupportRequestManagement.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
 {
@@ -35,8 +30,16 @@ namespace SupportRequestManagement.Application.Features.SupportRequest.Handlers
                 throw new Exception("Destek talebi bulunamadı");
             }
 
+            // UserId'nin geçerli olduğunu doğrula
+            if (supportRequest.UserId <= 0)
+            {
+                throw new Exception($"Geçersiz UserId: UserId ({supportRequest.UserId}) 0 veya negatif olamaz. Veritabanında id={request.Id} için user_id değerini kontrol edin.");
+            }
+
+            // Yalnızca Status ve UpdatedAt güncelle
             supportRequest.Status = request.Status;
             supportRequest.UpdatedAt = DateTime.UtcNow;
+
             await _supportRequestRepository.UpdateAsync(supportRequest);
 
             var notification = new SupportRequestManagement.Domain.Entities.Notification

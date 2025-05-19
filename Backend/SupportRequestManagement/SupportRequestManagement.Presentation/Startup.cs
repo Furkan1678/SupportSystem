@@ -9,7 +9,7 @@ using System.Text;
 using Microsoft.OpenApi.Models;
 using SupportRequestManagement.Domain.Interfaces; 
 
-namespace SupportRequestManagement.Presentation.WebApi.Startup
+namespace SupportRequestManagement.Presentation.Startup
 {
     public class Startup
     {
@@ -28,7 +28,7 @@ namespace SupportRequestManagement.Presentation.WebApi.Startup
             {
                 options.AddPolicy("AllowFrontend", builder =>
                 {
-                    builder.WithOrigins("http://localhost:5173")
+                    builder.WithOrigins("http://localhost:3000")
                            .AllowAnyMethod()
                            .AllowAnyHeader();
                 });

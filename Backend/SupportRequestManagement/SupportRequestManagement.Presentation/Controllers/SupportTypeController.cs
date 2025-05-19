@@ -1,6 +1,5 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SupportRequestManagement.Application.Features.SupportType.Commands;
 using SupportRequestManagement.Application.Features.SupportType.Queries;

@@ -1,8 +1,6 @@
 ﻿using Dapper;
 using SupportRequestManagement.Domain.Entities;
 using SupportRequestManagement.Domain.Interfaces;
-using SupportRequestManagement.Domain.Entities;
-using SupportRequestManagement.Domain.Interfaces;
 using System.Data;
 
 namespace SupportRequestManagement.Infrastructure.Data
@@ -30,7 +28,7 @@ namespace SupportRequestManagement.Infrastructure.Data
 
         public async Task<List<SupportType>> GetActiveAsync()
         {
-            var sql = "SELECT * FROM SupportTypes WHERE IsActive = 1";
+            var sql = "SELECT * FROM SupportTypes WHERE IsActive = true";
             return (await _dbConnection.QueryAsync<SupportType>(sql)).ToList();
         }
 
