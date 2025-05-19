@@ -7,7 +7,8 @@ using SupportRequestManagement.Infrastructure.Services;
 using SupportRequestManagement.Presentation.Middleware;
 using System.Text;
 using Microsoft.OpenApi.Models;
-using SupportRequestManagement.Domain.Interfaces; 
+using SupportRequestManagement.Domain.Interfaces;
+using Microsoft.Extensions.FileProviders;
 
 namespace SupportRequestManagement.Presentation.Startup
 {
@@ -37,6 +38,9 @@ namespace SupportRequestManagement.Presentation.Startup
             services.AddApplication();
             services.AddAutoMapper(typeof(MappingProfile));
             services.AddInfrastructure(Configuration);
+
+            // IHttpContextAccessor ekle
+            services.AddHttpContextAccessor();
 
             var jwtKey = Configuration["Jwt:Key"];
             if (string.IsNullOrEmpty(jwtKey))
@@ -78,19 +82,19 @@ namespace SupportRequestManagement.Presentation.Startup
                 });
 
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement
+        {
+            {
+                new OpenApiSecurityScheme
                 {
+                    Reference = new OpenApiReference
                     {
-                        new OpenApiSecurityScheme
-                        {
-                            Reference = new OpenApiReference
-                            {
-                                Type = ReferenceType.SecurityScheme,
-                                Id = "Bearer"
-                            }
-                        },
-                        new string[] { }
+                        Type = ReferenceType.SecurityScheme,
+                        Id = "Bearer"
                     }
-                });
+                },
+                new string[] { }
+            }
+        });
             });
 
             services.AddLogging(builder =>
@@ -110,11 +114,19 @@ namespace SupportRequestManagement.Presentation.Startup
                 {
                     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Support Request Management API v1");
                 });
-
             }
 
             app.UseCors("AllowFrontend");
             app.UseMiddleware<ExceptionMiddleware>();
+
+            // Statik dosya sunumunu ekle
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(
+                    Path.Combine(Directory.GetCurrentDirectory(), "Uploads")),
+                RequestPath = "/Uploads"
+            });
+
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();

@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace SupportRequestManagement.Infrastructure.Services
@@ -15,10 +13,13 @@ namespace SupportRequestManagement.Infrastructure.Services
     public class FileUploadService : IFileUploadService
     {
         private readonly string _uploadPath;
+        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public FileUploadService()
+        public FileUploadService(IHttpContextAccessor httpContextAccessor)
         {
             _uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
+            _httpContextAccessor = httpContextAccessor;
+
             if (!Directory.Exists(_uploadPath))
             {
                 Directory.CreateDirectory(_uploadPath);
@@ -40,7 +41,10 @@ namespace SupportRequestManagement.Infrastructure.Services
                 await file.CopyToAsync(stream);
             }
 
-            return $"/Uploads/{fileName}";
+            // Tam URL oluştur
+            var request = _httpContextAccessor.HttpContext.Request;
+            var baseUrl = $"{request.Scheme}://{request.Host}";
+            return $"{baseUrl}/Uploads/{fileName}";
         }
     }
 }
