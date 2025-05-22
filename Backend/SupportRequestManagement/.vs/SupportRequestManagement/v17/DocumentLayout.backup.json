@@ -38,9 +38,9 @@
               "Title": "FileUploadService.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
               "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvzEAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs*",
+              "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:08:28.671Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "SupportRequestManagement.Presentation\\Startup.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAkwFcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:47:17.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:47:17.719Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "SupportRequestManagement.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:47:15.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:47:15.155Z"
             },
             {
               "$type": "Document",
