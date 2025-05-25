@@ -9775,23 +9775,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\furka\\.nuget\\packages\\": {},
+    "C:\\Users\\Burak Ovec\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
+      "projectUniqueName": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
       "projectName": "SupportRequestManagement.Presentation",
-      "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
-      "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\obj\\",
+      "projectPath": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj",
+      "packagesPath": "C:\\Users\\Burak Ovec\\.nuget\\packages\\",
+      "outputPath": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\furka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Burak Ovec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9806,11 +9806,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj"
+            "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj": {
+              "projectPath": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Application\\SupportRequestManagement.Application.csproj"
             },
-            "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj"
+            "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\projeler\\SupportSystem\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj"
             }
           }
         }
@@ -9825,7 +9825,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -9863,7 +9863,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
