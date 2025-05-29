@@ -69,6 +69,10 @@ const Alert = styled(motion.div)`
   margin-bottom: 20px;
 `;
 
+
+
+
+
 function AdminUsers() {
   const [users, setUsers] = useState([]);
   const [error, setError] = useState('');
@@ -138,7 +142,7 @@ function AdminUsers() {
                   <Td>{user.id}</Td>
                   <Td>{user.username}</Td>
                   <Td>{user.email}</Td>
-                  <Td>{user.role}</Td>
+                  <Td>{user.role === 1 ? 'Admin' : 'Kullanıcı'}</Td>
                   <Td>
                     <Button
                       whileHover={{ scale: 1.05 }}
@@ -152,15 +156,15 @@ function AdminUsers() {
             ) : (
               <tr>
                 <Td colSpan="5" style={{ textAlign: 'center' }}>
-                    Henüz kullanıcı yok.
-                  </Td>
-                </tr>
-              )}
-            </tbody>
-          </Table>
-        </Card>
-      </Container>
-    );
-  }
-  
-  export default AdminUsers;
+                  Henüz kullanıcı yok.
+                </Td>
+              </tr>
+            )}
+          </tbody>
+        </Table>
+      </Card>
+    </Container>
+  );
+}
+
+export default AdminUsers;

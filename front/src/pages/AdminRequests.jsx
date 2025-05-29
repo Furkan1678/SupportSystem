@@ -88,19 +88,19 @@ function AdminRequests() {
   const [error, setError] = useState('');
 
   const statusMapping = {
-    Pending: 0,
-    InProgress: 1,
-    Completed: 2,
-    Rejected: 3,
-    OnHold: 4,
+    Beklemede: 0,
+    DevamEdiyor: 1,
+    Tamamlandi: 2,
+    Reddedildi: 3,
+    Bekletiliyor: 4,
   };
 
   const reverseStatusMapping = {
-    0: 'Pending',
-    1: 'InProgress',
-    2: 'Completed',
-    3: 'Rejected',
-    4: 'OnHold',
+    0: 'Beklemede',
+    1: 'DevamEdiyor',
+    2: 'Tamamlandi',
+    3: 'Reddedildi',
+    4: 'Bekletiliyor',
   };
 
   useEffect(() => {
@@ -199,11 +199,11 @@ function AdminRequests() {
                       value={req.status || 'Pending'}
                       onChange={(e) => handleStatusChange(req.id, e.target.value)}
                     >
-                      <option value="Pending">Beklemede</option>
-                      <option value="InProgress">İşleme Alındı</option>
-                      <option value="Completed">Tamamlandı</option>
-                      <option value="Rejected">Reddedildi</option>
-                      <option value="OnHold">Bekletiliyor</option>
+                      <option value="Beklemede">Beklemede</option>
+                      <option value="DevamEdiyor">İşleme Alındı</option>
+                      <option value="Tamamlandi">Tamamlandı</option>
+                      <option value="Reddedildi">Reddedildi</option>
+                      <option value="Bekletiliyor">Bekletiliyor</option>
                     </Select>
                     <Button
                       whileHover={{ scale: 1.05 }}

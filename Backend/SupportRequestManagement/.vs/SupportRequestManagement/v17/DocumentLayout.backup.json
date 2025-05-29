@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA8F10C-3FCF-4F55-A708-40142F5507C8}|SupportRequestManagement.Presentation\\SupportRequestManagement.Presentation.csproj|solutionrelative:supportrequestmanagement.presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\proje\\backend\\supportrequestmanagement\\supportrequestmanagement.infrastructure\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C74BCC-626C-4DBC-969B-AE7F2A313E29}|SupportRequestManagement.Infrastructure\\SupportRequestManagement.Infrastructure.csproj|solutionrelative:supportrequestmanagement.infrastructure\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FileUploadService.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
               "RelativeDocumentMoniker": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
@@ -42,44 +42,46 @@
               "RelativeToolTip": "SupportRequestManagement.Infrastructure\\Services\\FileUploadService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:08:28.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:08:28.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Startup.cs",
               "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Startup.cs",
               "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Startup.cs",
               "RelativeToolTip": "SupportRequestManagement.Presentation\\Startup.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAkwFcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:47:17.719Z"
+              "WhenOpened": "2025-05-17T14:47:17.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\Program.cs",
               "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\Program.cs",
               "RelativeToolTip": "SupportRequestManagement.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:47:15.155Z"
+              "WhenOpened": "2025-05-17T14:47:15.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "SupportRequestManagement.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\appsettings.json",
-              "RelativeToolTip": "SupportRequestManagement.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\Backend\\SupportRequestManagement\\SupportRequestManagement.Presentation\\appsettings.json*",
+              "RelativeToolTip": "SupportRequestManagement.Presentation\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T14:12:19.741Z"
+              "WhenOpened": "2025-05-17T14:12:19.741Z",
+              "EditorCaption": ""
             }
           ]
         }
