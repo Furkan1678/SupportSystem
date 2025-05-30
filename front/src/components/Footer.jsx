@@ -30,8 +30,8 @@ function Footer() {
       <Text
         whileHover={{ scale: 1.05 }}
       >
-        © 2025 FSociety. Tüm hakları saklıdır. <br />
-        Tasarım ve Geliştirme: <a href="mailto:fsociety@ornek.com">FSociety Ekibi</a>
+        © 2025 Destek Sistemi. Tüm hakları saklıdır. <br />
+        Tasarım ve Geliştirme: <a href="mailto:furkankeskin1678@gmail.com">KESKİN</a> <a href="mailto:332361014@ogr.uludag.edu.tr">DEMİR</a> <a href="mailto:haticenalcaci987@gmail.com">NALÇACI</a> <a href="mailto:burakovc112@gmail.com">ÖVEÇ</a> <a href="mailto:ozcanmert72@gmail.com">ÖZCAN</a> <a href="mailto:eminbakir3453@gmail.com">BAKIR</a>
       </Text>
     </FooterContainer>
   );

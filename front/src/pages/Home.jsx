@@ -62,9 +62,9 @@ function Home() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        <Title className="glitch">FSociety</Title>
+        <Title className="glitch">DESTEK SİSTEMİ</Title>
         <Text>
-          Sistemimizi hack'le! Taleplerini oluştur, takip et ve bildirimlerini anlık yönet.
+        Taleplerinizi sistem üzerinden kolayca oluşturun, süreci şeffaf bir şekilde takip edin ve sürekli gelişimimize katkı sağlayın.
         </Text>
         <Button
           whileHover={{ scale: 1.1 }}

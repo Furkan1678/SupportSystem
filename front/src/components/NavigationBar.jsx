@@ -91,7 +91,7 @@ function NavigationBar() {
         whileHover={{ scale: 1.1 }}
         onClick={() => navigate('/')}
       >
-        FSociety
+        DESTEK SİSTEMİ
       </Brand>
       <ToggleButton onClick={() => setExpanded(!expanded)}>
         <FaBars />

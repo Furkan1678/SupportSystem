@@ -37,6 +37,19 @@ function SupportRequestCard({ request, ...motionProps }) {
   const navigate = useNavigate();
   const { id, subject, description, status, priority, createdAt, attachmentUrl } = request;
 
+  const statusMapping = {
+    0: 'Beklemede',
+    1: 'Devam Ediyor',
+    2: 'Tamamlandı',
+    3: 'Reddedildi',
+    4: 'Bekletiliyor'
+  };
+
+  const getStatusLabel = (status) => {
+    // Sayıysa string'e çevir, zaten string ise doğrudan kullan
+    return statusMapping[status] || status;
+  };
+
   const getPriorityLabel = (priority) => {
     switch (priority) {
       case 1: return 'Düşük';
@@ -54,7 +67,7 @@ function SupportRequestCard({ request, ...motionProps }) {
     >
       <Title>{subject}</Title>
       <Text><strong>Açıklama:</strong> {description}</Text>
-      <Text><strong>Durum:</strong> {status}</Text>
+      <Text><strong>Durum:</strong> {getStatusLabel(status)}</Text>
       <Text><strong>Öncelik:</strong> {getPriorityLabel(priority)}</Text>
       <Text><strong>Oluşturulma:</strong> {new Date(createdAt).toLocaleDateString()}</Text>
       {attachmentUrl && (
@@ -68,5 +81,6 @@ function SupportRequestCard({ request, ...motionProps }) {
     </Card>
   );
 }
+
 
 export default SupportRequestCard;

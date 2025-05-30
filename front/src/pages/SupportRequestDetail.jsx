@@ -99,6 +99,21 @@ const Alert = styled(motion.div)`
   margin-bottom: 20px;
 `;
 
+const durumMap = {
+  0: 'Bekliyor',
+  1: 'İşlemde',
+  2: 'Tamamlandı',
+  3: 'İptal Edildi',
+};
+
+const oncelikMap = {
+  0: 'Düşük',
+  1: 'Orta',
+  2: 'Yüksek',
+  3: 'Acil',
+};
+
+
 function SupportRequestDetail() {
   const { user } = useContext(AuthContext);
   const { id } = useParams();
@@ -174,8 +189,8 @@ function SupportRequestDetail() {
         <CardTitle>{request.subject}</CardTitle>
         <CardText>
           <strong>Açıklama:</strong> {request.description} <br />
-          <strong>Durum:</strong> {request.status} <br />
-          <strong>Öncelik:</strong> {request.priority} <br />
+          <strong>Durum:</strong> {durumMap[request.status]} <br />
+          <strong>Öncelik:</strong> {oncelikMap[request.priority]} <br />
           <strong>Oluşturulma:</strong> {new Date(request.createdAt).toLocaleDateString()}
           {request.attachmentUrl && (
             <>

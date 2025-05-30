@@ -112,6 +112,64 @@
 
 
 
+
+✅ SupportSystem ℱrontend ✅
+
+
+ **✔Özellikler✔**: 
+
+
+- **Destek Talebi Yönetimi**: Talepleri oluşturma, güncelleme ve takip etme.
+
+
+- **Kategorizasyon ve Türler**: Talepleri kategorilere ve türlere ayırma.
+
+
+- **Bildirim Sistemi**: Gerçek zamanlı bildirimler.
+
+
+- **Rol Tabanlı Erişim**: Admin, SuperAdmin ve kullanıcı rolleri.
+
+
+- **Dosya Yükleme**: Taleplere ek dosya desteği.
+
+
+- **Yorum Sistemi**: Taleplere yorum ekleme.
+
+
+- **Responsive Tasarım**: Mobil ve masaüstü uyumluluğu.
+
+
+- **Animasyonlu Arayüz**: Akıcı geçişler ve görsel efektler.
+
+
+**✔Kullanılan Teknolojiler✔**
+
+
+- **React**: Bileşen tabanlı ön yüz geliştirme.
+
+
+- **Styled Components**: Dinamik stil yönetimi.
+
+
+- **Framer Motion**: Animasyonlar ve geçiş efektleri.
+
+
+- **React Router**: Sayfa yönlendirme.
+
+
+- **Axios**: API iletişimi.
+
+
+- **JWT**: Kimlik doğrulama.
+
+
+- **React Toastify**: Bildirimler.
+
+
+- **Fira Code**: Modern yazı tipi.
+
+
 ## Özellikler
 - **Destek Talebi Yönetimi**: Kullanıcılar, taleplerini kolayca oluşturabilir, güncelleyebilir ve takip edebilir.
 - **Kategorizasyon ve Türler**: Talepler, kategorilere ve türlere ayrılarak daha düzenli bir yönetim sağlar.
@@ -121,3 +179,4 @@
 - **Yorum Sistemi**: Destek taleplerine yorum ekleyerek iletişim güçlendirilir.
 
 **Geliştiricilerin Sosyal Medya Hesapları**:
+

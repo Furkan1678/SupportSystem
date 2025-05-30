@@ -71,7 +71,7 @@ function AdminSidebar() {
     { path: '/admin-dashboard/requests', icon: <FaTicketAlt />, label: 'Destek Talepleri' },
     { path: '/admin-dashboard/categories', icon: <FaFolder />, label: 'Kategoriler' },
     { path: '/admin-dashboard/types', icon: <FaLayerGroup />, label: 'Destek Türleri' },
-    { path: '/admin-dashboard/notifications', icon: <FaBell />, label: 'Bildirimler' },
+  
     { path: '/admin-dashboard/users', icon: <FaUsers />, label: 'Kullanıcılar' },
   ];
 
@@ -81,7 +81,7 @@ function AdminSidebar() {
         className="glitch"
         whileHover={{ scale: 1.05 }}
       >
-        FSociety Panel
+        DESTEK SİSTEMİ
       </Title>
       <Nav>
         {links.map((link) => (

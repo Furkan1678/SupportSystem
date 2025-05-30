@@ -65,11 +65,11 @@ function AdminOverview() {
         const response = await api.get('/supportrequest');
         const requests = response.data || [];
         const stats = requests.reduce((acc, req) => {
-          const status = req.status === 0 ? 'Pending' :
-                         req.status === 1 ? 'InProgress' :
-                         req.status === 2 ? 'Completed' :
-                         req.status === 3 ? 'Rejected' :
-                         req.status === 4 ? 'OnHold' : 'Unknown';
+          const status = req.status === 0 ? 'Beklemede' :
+                         req.status === 1 ? 'DevamEdiyor' :
+                         req.status === 2 ? 'Tamamlandi' :
+                         req.status === 3 ? 'Reddedildi' :
+                         req.status === 4 ? 'Bekletiliyor' : 'Unknown';
           acc[status] = (acc[status] || 0) + 1;
           return acc;
         }, {});
