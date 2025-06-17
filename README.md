@@ -1,4 +1,4 @@
-# SupportSystem
+# SupportSystems
 
 **SupportSystem**, kullanıcıların destek taleplerini kolayca oluşturup yönetebileceği, hızlı ve güvenilir bir destek yönetim platformudur. Modern teknolojilerle geliştirilen bu sistem, kullanıcı dostu bir arayüz ve güvenli veri yönetimi sunarak hem bireysel kullanıcıların hem de ekiplerin iş akışını kolaylaştırmayı hedefler. Destek taleplerini kategorize etme, durum takibi yapma ve bildirimlerle anlık iletişim kurma gibi özelliklerle her ölçekte organizasyon için ideal bir çözüm sunar.
 
